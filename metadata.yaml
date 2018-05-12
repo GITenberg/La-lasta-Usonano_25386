@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2484
     wikipedia: http://en.wikipedia.org/wiki/John_Ames_Mitchell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25386#La-lasta-Usonano
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2008-05-08'
 gutenberg_type: Text
