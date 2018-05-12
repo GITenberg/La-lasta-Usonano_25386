@@ -1,0 +1,38 @@
+_repo: La-lasta-Usonano_25386
+_version: 0.1.0
+alternative_title: The last American. Esperanto
+contributor:
+  translator:
+    agent_name: Wendell, Lehman
+    birthdate: 1878
+    deathdate: 1977
+    gutenberg_agent_id: '34997'
+    url: http://www.gutenberg.org/2009/agents/34997
+    wikipedia: http://eo.wikipedia.org/wiki/Lehman_Wendell
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitchell, John Ames
+    alias: Mitchell, J. A. (John Ames)
+    birthdate: 1845
+    deathdate: 1918
+    gutenberg_agent_id: '2484'
+    url: http://www.gutenberg.org/2009/agents/2484
+    wikipedia: http://en.wikipedia.org/wiki/John_Ames_Mitchell
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2008-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25386'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: La lasta Usonano
+url: http://www.gutenberg.org/ebooks/25386
